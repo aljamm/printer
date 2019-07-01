@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Printer</string>
+    <string name="ok">Ok</string>
+    <string name="loading">printing</string>
+    <string name="msg_printing_in_progress">Printing in progress</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="validation_scan_barcode">الرجاء مسح الباركود عن المنتج. </string>
+    <string name="validation_check_printer_mac">الرجاء التحقق من عنوان الطابعة </string>
+    <string name="validation_error_occurred_printing">يرجى التأكد من تشغيل الطابعة. </string>
+    <string name="validation_error_occurred_printing_invalid_media">الرجاء التحقق من نوع الورق المدخل</string>
+</resources>

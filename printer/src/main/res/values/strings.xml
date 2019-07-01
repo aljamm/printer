@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Printer</string>
+    <string name="ok">Ok</string>
+    <string name="loading">printing</string>
+    <string name="msg_printing_in_progress">Printing in progress</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="validation_scan_barcode">Please scan barcode from product.</string>
+    <string name="validation_check_printer_mac">Please correct printer MAC address. </string>
+    <string name="validation_error_occurred_printing">Please make sure that printer is turned on.</string>
+    <string name="validation_error_occurred_printing_invalid_media">Please make sure inserted media is valid.</string>
+</resources>
