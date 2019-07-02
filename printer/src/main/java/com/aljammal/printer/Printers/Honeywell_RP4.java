@@ -11,7 +11,7 @@ public class Honeywell_RP4 extends Printer {
     public Honeywell_RP4(ConnectionsPrinter connectionsPrinter, PrintData printData, Context mContext) {
         setConnectionsPrinter(connectionsPrinter);
         setPrintData(printData);
-        setmContext(mContext);
+        setContext(mContext);
     }
 
     @Override

@@ -33,7 +33,7 @@ public abstract class Printer {
         return mContext;
     }
 
-    public void setmContext(Context mContext) {
+    public void setContext(Context mContext) {
         this.mContext = mContext;
     }
 
