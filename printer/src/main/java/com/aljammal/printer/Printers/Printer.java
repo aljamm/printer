@@ -21,19 +21,19 @@ public abstract class Printer {
         this.connectionsPrinter = connectionsPrinter;
     }
 
-    public PrintData getPrintData() {
+     PrintData getPrintData() {
         return printData;
     }
 
-    public void setPrintData(PrintData printData) {
+     void setPrintData(PrintData printData) {
         this.printData = printData;
     }
 
-    public Context getmContext() {
+     Context getContext() {
         return mContext;
     }
 
-    public void setContext(Context mContext) {
+     void setContext(Context mContext) {
         this.mContext = mContext;
     }
 
