@@ -17,7 +17,7 @@ public class Honeywell_RP4 extends Printer {
     @Override
     public void printShelfTag(String mas, boolean isShowDialog) {
 
-        new ExecutePrintCommand(getContext(), LabelGenerationUtil.GenerateShelfTagLabelHoneywell_RP4(getPrintData()), mas, getConnectionsPrinter()).execute();
+        new ExecutePrintCommand(getContext(), LabelGenerationUtil2.GenerateShelfTagLabelHoneywell_RP4(getPrintData()), mas, getConnectionsPrinter()).execute();
 
     }
 
