@@ -20,14 +20,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        bluetoothConnection = new BluetoothAddress("0010203BB693");
+        bluetoothConnection = new BluetoothAddress("0010203BB69C");
 
         printData = new PrintData
                 .Builder()
                 .setSensorType("R")
                 .setLabelWidth("276")
                 .setBarcode("552555215421")
-                .setXaxisBarcode("0260")
+                .setXaxisBarcode("0150")
                 .setReadableBarcode("0240")
                 .setName("Jammal")
                 .setHeightName("10")
